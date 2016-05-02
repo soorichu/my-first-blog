@@ -1,3 +1,0 @@
-Test for github
-git is pretty difficult.
-but strong!
