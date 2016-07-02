@@ -3,3 +3,10 @@ __pycache__
 myven
 db.sqlite3
 .DS_Store
+!TEST2.txt
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*/txt
