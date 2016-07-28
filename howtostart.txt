@@ -2,3 +2,6 @@ treminal
 $ python3 -m venv myvenv
 $ source myvenv/bin/activate
 (myvenv)..$ python manage.py runserver
+
+
+$ python manage.py startapp [appname]
